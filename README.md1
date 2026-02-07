@@ -10,10 +10,27 @@ A modern and stylish E-commerce UI for a Shoe Shop built using Flutter. This pro
 - **Modern UI:** Built with Flutter's Material Design components.
 
 ## 📸 Screenshots
-*(Tip: Add your app screenshots in an 'assets' folder and link them here)*
-<table>
+
+Check out the UI flow of the Flutter Shoe Collection Shop:
+
+<table style="width: 100%;">
   <tr>
-    <td><img src="D:\All projeckts\test15_shop_2\assets\app_ui" width="200"></td>
+    <td align="center" width="25%">
+      <img src="assets/app_ui/1.jpeg" width="200pt" alt="Home Screen"/><br />
+      <b>Home Screen</b>
+    </td>
+    <td align="center" width="25%">
+      <img src="assets/app_ui/2.jpeg" width="200pt" alt="Product Details"/><br />
+      <b>Product Details</b>
+    </td>
+    <td align="center" width="25%">
+      <img src="assets/app_ui/3.jpeg" width="200pt" alt="Categories"/><br />
+      <b>Categories</b>
+    </td>
+    <td align="center" width="25%">
+      <img src="assets/app_ui/4.jpeg" width="200pt" alt="Cart Screen"/><br />
+      <b>Cart Screen</b>
+    </td>
   </tr>
 </table>
 
